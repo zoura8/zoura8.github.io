@@ -1,6 +1,6 @@
 ---
 layout: welcome
-title: Welcome!
+title: About me
 cover: true
 ---
 
