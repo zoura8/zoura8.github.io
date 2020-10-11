@@ -2,17 +2,13 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              <Sarah> <Muwahidah>
+  email:             <sarahm@alumni.emory.edu>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+    Sarah Muwahidah received a Ph.D. in Religious Studies from Emory University. Her dissertation discussed Sunni-Shiʿi relations and sectarianization in Indonesia. Her study concentrations were in Religion, Conflict, and Peacebuilding as well as in Political Theology and Theory of Practice. Her previous awards include the Fulbright Fellowship, the Asian Public Intellectual Fellowship, and the ELMO Graduate Fellowship from The Carter Center and Institute of Developing Nations. She has conducted research on conflict and peacebuilding in the Philippines, Indonesia, and Malaysia. She has published peer-reviewed articles on Islamic bioethics, interfaith peacebuilding, grassroots interfaith dialogues, ambiguous sectarian identities, and Islamic conservatism.
 
   # This photo will be used in the about section
   picture:
