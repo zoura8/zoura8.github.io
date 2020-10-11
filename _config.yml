@@ -51,7 +51,7 @@ menu:
 #  - title:             Résumé*
 #   url:               /resume/
   - title:             About me
-    url:               /index/
+    url:               /about/
   - title:             Research
     url:               /research/
   - title:              Teaching
