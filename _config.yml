@@ -50,6 +50,8 @@ author:
 menu:
 #  - title:             Résumé*
 #   url:               /resume/
+  - title:             About me
+    url:               /index/
   - title:             Research
     url:               /research/
   - title:              Teaching
