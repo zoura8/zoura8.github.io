@@ -48,8 +48,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Résumé*
-    url:               /resume/
+#  - title:             Résumé*
+#   url:               /resume/
   - title:             Research
     url:               /research/
   - title:              Teaching
