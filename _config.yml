@@ -52,12 +52,16 @@ menu:
 #   url:               /resume/
   - title:             About me
     url:               /about/
+    
   - title:             Research
     url:               /research/
+    
+  - title:             Publications
+    url:               /publications/
+    
   - title:              Teaching
     url:               /teaching/
-  - title:             Writings
-    url:               /writings/
+
   - title:             Activism
     url:               /activism/
 
