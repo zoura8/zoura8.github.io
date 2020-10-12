@@ -7,19 +7,19 @@ hide_description: true
 
 
 ---
-## Peer-Reviewed Articles
+### Peer-Reviewed Articles
 
-Year  |Title                                 
-------|-----
-Current|Forthcoming	National (In)security and Identity Boundaries: The Rise of Muslim Conservative Propaganda in Indonesia. The Journal of Islamic and Muslim Studies 5, no.1 (2020).
-2016  | For the Love of Ahl Al-Bayt: Transcending Sunni-Shiʿi Sectarian Allegiance. Journal of Shi’a Islamic Studies 9, no. 3 (2016): 327–58.
-2015  |	Melampaui Batas Identitas Sunni-Syiah. Jurnal MAARIF 10 no.2 (2015): 188-201.
-2011	|Interfaith Dialogue in Mindanao: Sharing A Common Hope and Mutual Fears. The Work of the 2009/2010 Asian Public Intellectual Fellow pp. 39-50.
-2008 |	“Interfaith Dialogue at the Grassroots Level: 	 A Case Study of an Interfaith Empowerment Program in East Java, Indonesia.”  Political  Theology 9, no. 1 (2008): 79–92.
-2006	| “Islamic View on Stem Cell Research”. Renai. Salatiga: Pustaka Percik, 2006.
+                                 
+
+Forthcoming	National (In)security and Identity Boundaries: The Rise of Muslim Conservative Propaganda in Indonesia. The Journal of Islamic and Muslim Studies 5, no.1 (2020).
+For the Love of Ahl Al-Bayt: Transcending Sunni-Shiʿi Sectarian Allegiance. Journal of Shi’a Islamic Studies 9, no. 3 (2016): 327–58.
+Melampaui Batas Identitas Sunni-Syiah. Jurnal MAARIF 10 no.2 (2015): 188-201.
+Interfaith Dialogue in Mindanao: Sharing A Common Hope and Mutual Fears. The Work of the 2009/2010 Asian Public Intellectual Fellow pp. 39-50.
+“Interfaith Dialogue at the Grassroots Level: 	 A Case Study of an Interfaith Empowerment Program in East Java, Indonesia.”  Political  Theology 9, no. 1 (2008): 79–92.
+“Islamic View on Stem Cell Research”. Renai. Salatiga: Pustaka Percik, 2006.
 					
 
-## Other publications
+### Other publications
 
 __2015__ | Book Review: “Shīʾīsm in Southeast Asia: ʿAlid Piety and Sectarian Constructions by Chiara Formichi and R M. Feener.” Comparative Islamic Studies 11, no. 1 (2015): 133–36.
 __2013__ | “Eradicating Poverty - Is It Crazy to Think We Can?” Short essay for International Development study newsletter, Emory University.
