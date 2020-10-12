@@ -10,13 +10,16 @@ hide_description: true
 ### Peer-Reviewed Articles
 
                                  
+__National (In)security and Identity Boundaries: The Rise of Muslim Conservative Propaganda in Indonesia.__ The Journal of Islamic and Muslim Studies 5, no.1 (2020). Forthcoming
 
-Forthcoming	National (In)security and Identity Boundaries: The Rise of Muslim Conservative Propaganda in Indonesia. The Journal of Islamic and Muslim Studies 5, no.1 (2020).
-For the Love of Ahl Al-Bayt: Transcending Sunni-Shiʿi Sectarian Allegiance. Journal of Shi’a Islamic Studies 9, no. 3 (2016): 327–58.
+__For the Love of Ahl Al-Bayt: Transcending Sunni-Shiʿi Sectarian Allegiance.__ Journal of Shi’a Islamic Studies 9, no. 3 (2016): 327–58.
 Melampaui Batas Identitas Sunni-Syiah. Jurnal MAARIF 10 no.2 (2015): 188-201.
-Interfaith Dialogue in Mindanao: Sharing A Common Hope and Mutual Fears. The Work of the 2009/2010 Asian Public Intellectual Fellow pp. 39-50.
-“Interfaith Dialogue at the Grassroots Level: 	 A Case Study of an Interfaith Empowerment Program in East Java, Indonesia.”  Political  Theology 9, no. 1 (2008): 79–92.
-“Islamic View on Stem Cell Research”. Renai. Salatiga: Pustaka Percik, 2006.
+
+__Interfaith Dialogue in Mindanao: Sharing A Common Hope and Mutual Fears.__ The Work of the 2009/2010 Asian Public Intellectual Fellow pp. 39-50.
+
+__“Interfaith Dialogue at the Grassroots Level: A Case Study of an Interfaith Empowerment Program in East Java, Indonesia.”__  Political Theology 9, no. 1 (2008): 79–92.
+
+__“Islamic View on Stem Cell Research”.__ Renai. Salatiga: Pustaka Percik, 2006.
 					
 
 ### Other publications
