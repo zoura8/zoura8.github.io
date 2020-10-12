@@ -7,7 +7,8 @@ hide_description: true
 
 
 ---
-### Peer-Reviewed Articles
+### Peer-Reviewed Articles 
+{:.faded}
 
                                  
 __National (In)security and Identity Boundaries: The Rise of Muslim Conservative Propaganda in Indonesia.__ The Journal of Islamic and Muslim Studies 5, no.1 (2020). Forthcoming
@@ -23,20 +24,31 @@ __“Islamic View on Stem Cell Research”.__ Renai. Salatiga: Pustaka Percik, 2
 					
 
 ### Other publications
+{:.faded}
 
-__2015__ | Book Review: “Shīʾīsm in Southeast Asia: ʿAlid Piety and Sectarian Constructions by Chiara Formichi and R M. Feener.” Comparative Islamic Studies 11, no. 1 (2015): 133–36.
-__2013__ | “Eradicating Poverty - Is It Crazy to Think We Can?” Short essay for International Development study newsletter, Emory University.
-__2010__ |	[The 500 Most Influential Muslims in the World 2010 Research Consultant. The Royal Islamic Strategic Studies Center, Jordan](http://rissc.jo/docs/new/Muslim500-2010-Third-Edition-001.pdf)
-__2009__ | [The 500 Most Influential Muslims in the World 2009 Research Consultant. The RISSC Jordan, in cooperation with Alwaleed Bin Talal Center  for Muslim-Christian Understanding Georgetown University, 2009.](http://www.rissc.jo/muslim500v-1L.pdf)
-__2009__ | “Kekerasan dan Kekuasaan di Mindanao” (Violence and Power in Mindanao) Op-Ed Republika. Dec 3, 2009.
-__2008__ | Pendidikan al-Islam dan Ke-Muhammadiyahan Berwawasan HAM untuk SMA dan MAN (Islam, Muhammadiyah and Human Rights—a set of textbooks and modules for high school students and teachers). Co-editor. MAARIF Institute, Dikdasmen Muhammadiyah, New Zealand Aid (NZAID).
-__2008__ | “Saat Negara Membangun Jembatan Dialog (When countries building a bridge for dialogue). Jurnal MAARIF vol. 3. no 1. Feb 2008.
-__2007__ | Interfaith Dialogue at the Grassroots level: A Case Study of an Interfaith Empowerment Program in East Java Indonesia. Masters Thesis. CRCS.GMU. Yogyakarta, 2007.
-__2007__ | Islam, Good Governance, dan Pengentasan Kemiskinan (Islam, Good Governance and Poverty Reduction). Co-editor. Jakarta: MAARIF Institute, 2007.
-__2007__ | Meretas Keadilan Bersama: Mungkinkah Membangun Pluralisme Tanpa Memperjuangkan Keadilan. Co-editor. Yogyakarta: Satunama and Danish Embassy. 2007.
+__Book Review: “Shīʾīsm in Southeast Asia: ʿAlid Piety and Sectarian Constructions by Chiara Formichi and R M. Feener.”__ Comparative Islamic Studies 11, no. 1 (2015): 133–36.
 
-## Documentary Film
+__“Eradicating Poverty - Is It Crazy to Think We Can?”__ Short essay for International Development study newsletter, Emory University. (2003)
 
-__2009__ |	An Insight into the Largest Muslim Country in the World: Indonesia. Maarif Institute and Ministry of Foreign Affairs Republic of Indonesia. Producer and co-director.
-__2007__ | Science and Religion in A Post-Colonial World. Translator and Editor. Center for Religious and Cross-cultural Studies, Gadjah Mada University, Yogyakarta.
+[__The 500 Most Influential Muslims in the World 2010 Research Consultant__. The Royal Islamic Strategic Studies Center, Jordan, (2010)](http://rissc.jo/docs/new/Muslim500-2010-Third-Edition-001.pdf)
+
+[__The 500 Most Influential Muslims in the World 2009 Research Consultant.__ The RISSC Jordan, in cooperation with Alwaleed Bin Talal Center  for Muslim-Christian Understanding Georgetown University, 2009.](http://www.rissc.jo/muslim500v-1L.pdf)
+
+__“Kekerasan dan Kekuasaan di Mindanao” (Violence and Power in Mindanao)__ Op-Ed Republika. Dec 3, 2009.
+
+__Pendidikan al-Islam dan Ke-Muhammadiyahan Berwawasan HAM untuk SMA dan MAN (Islam, Muhammadiyah and Human Rights—a set of textbooks and modules for high school students and teachers)__. Co-editor. MAARIF Institute, Dikdasmen Muhammadiyah, New Zealand Aid (NZAID).
+
+__“Saat Negara Membangun Jembatan Dialog (When countries building a bridge for dialogue).__ Jurnal MAARIF vol. 3. no 1. Feb 2008.
+
+__Interfaith Dialogue at the Grassroots level: A Case Study of an Interfaith Empowerment Program in East Java Indonesia.__ Masters Thesis. CRCS.GMU. Yogyakarta, 2007.
+
+__Islam, Good Governance, dan Pengentasan Kemiskinan (Islam, Good Governance and Poverty Reduction)__. Co-editor. Jakarta: MAARIF Institute, 2007.
+
+__Meretas Keadilan Bersama: Mungkinkah Membangun Pluralisme Tanpa Memperjuangkan Keadilan.__ Co-editor. Yogyakarta: Satunama and Danish Embassy. 2007.
+
+### Documentary Film
+{:.faded}
+
+__An Insight into the Largest Muslim Country in the World: Indonesia.__ Maarif Institute and Ministry of Foreign Affairs Republic of Indonesia. Producer and co-director. (2009)
+__Science and Religion in A Post-Colonial World.__ Translator and Editor. Center for Religious and Cross-cultural Studies, Gadjah Mada University, Yogyakarta.(2007)
 
