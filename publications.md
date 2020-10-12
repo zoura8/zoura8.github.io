@@ -50,5 +50,6 @@ __Meretas Keadilan Bersama: Mungkinkah Membangun Pluralisme Tanpa Memperjuangkan
 {:.faded}
 
 __An Insight into the Largest Muslim Country in the World: Indonesia.__ Maarif Institute and Ministry of Foreign Affairs Republic of Indonesia. Producer and co-director. (2009)
+
 __Science and Religion in A Post-Colonial World.__ Translator and Editor. Center for Religious and Cross-cultural Studies, Gadjah Mada University, Yogyakarta.(2007)
 
