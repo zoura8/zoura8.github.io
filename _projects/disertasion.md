@@ -4,21 +4,19 @@ title: Dissertation
 caption: For the Love of Ahl al-Bayt
 description: >
   Negotiating Shiʿism in Indonesia
-date: 1 Jun 2015
 image: 
-  path: /assets/img/projects/parade-tauhid.jpg
+  path: /assets/img/projects/Doors-of-knowledge-of-Ahl-ul-Bayt-AS-part-3.jpg
   srcset: 
-    1920w: /assets/img/projects/parade-tauhid.jpg
-    960w:  /assets/img/projects/parade-tauhid@0,5x.jpg
-    480w:  /assets/img/projects/parade-tauhid@0,25x.jpg
-links:
-  - title: Link
-    url: https://qwtel.com/
+    1920w: /assets/img/projects/Doors-of-knowledge-of-Ahl-ul-Bayt-AS-part-3.jpg
+    960w:  /assets/img/projects/Doors-of-knowledge-of-Ahl-ul-Bayt-AS-part-3@0,5x.jpg
+    480w:  /assets/img/projects/Doors-of-knowledge-of-Ahl-ul-Bayt-AS-part-3@0,25x.jpg
 accent_color: '#4fb1ba'
 accent_image:
   background: '#193747'
 theme_color: '#193747'
 sitemap: false
+date_hide: true
+about: false
 ---
 
 __Abstract__: The sectarian conflicts in the Middle East have heightened Sunni-Shiʿa sectarian tensions in the broader Islamic world. This dissertation examines the dynamic of Sunni-Shiʿa sectarianization in Indonesia. Unlike other studies that have been rooted in an assumption of fixed-normative notions of Sunnism and Shiʿism, it looks beyond the perceived doctrines, orthodoxies, and boundaries that are ordinarily understood to delineate Sunni and Shiʿa identity. This work is based on a combination of library research and multi-site fieldwork in Indon esia in 2015 and 2018. Over one hundred interviews were conducted with Muslim interlocutors from diverse backgrounds across Indonesia on subjects pertaining to their understanding of Sunni and Shiʿa identity, narratives, and boundaries.

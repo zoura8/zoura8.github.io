@@ -27,6 +27,4 @@ Teaching Assistant to Dr. Richard C. Martin. Early and Medieval Islam is the fir
 
 Co-instructor with Dr. Zainal Abidin Bagir. This class examines the relationship between religion, science, and technology in different religious tradition. The class surveys a range of issues, thinkers, and approaches to some of the most important ways in which religion and science interact. The course will be divided into two sections. The first will cover philosophical issues related to religious and scientific understandings of the natural world and human life, including cosmology, the origins of life, and evolution by natural selection. The second section will address various ethical issues, including those related to environmental problems, cloning, and scientific methods and procedures.
 
- 
-
-Online Course Instructor, Department of Religious Studies, Florida International University, Miami (Summer 2006 – Fall 2007):  Religions, Analysis & Interpretations; and Meditation and Mysticism.
+## Online Course Instructor, Department of Religious Studies, Florida International University, Miami (Summer 2006 – Fall 2007):  Religions, Analysis & Interpretations; and Meditation and Mysticism.
