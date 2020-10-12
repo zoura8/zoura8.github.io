@@ -4,6 +4,7 @@ title: Dissertation
 caption: For the Love of Ahl al-Bayt
 description: >
   Negotiating Shiʿism in Indonesia
+date: 10 Oct 2020
 image: 
   path: /assets/img/projects/Doors-of-knowledge-of-Ahl-ul-Bayt-AS-part-3.jpg
   srcset: 
