@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Reimagining Islam
+title: Building Peace
 caption: Salafi Networks in Muslim Southeast Asia, Research Assistant, the Center for the Study of Religion and Conflict, Arizona State University.
 description: >
   The purpose of the overall project is to examine in the history of Salafi religious movements in Indonesia, Malaysia, and Singapore between 1880 and the present. My work includes textual analysis and conducting 15 interviews on contemporary aspects of Salafi movements in Indonesia. I selected interviewees from diverse religious organizations, geographic locations, gender, economic class and level of educations. I translated the interviews transcripts from Bahasa Indonesia to English and wrote a short report on profiling the interviewees.

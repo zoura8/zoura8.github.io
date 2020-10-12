@@ -80,11 +80,11 @@ legal:
 copyright:             © 2020. All rights reserved.
 
 # Format of the permalinks
-permalink:             /blog/:categories/:year-:month-:day-:title/
+permalink:             /publications/:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
-paginate_path:         /blog/:num/
+paginate_path:         /publications/:num/
 
 
 # Theme
@@ -153,6 +153,11 @@ defaults:
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
+  - scope:
+      type:            activism
+    values:
+      seo:
+        type:          WebPage
   - scope:
       type:            projects
     values:
@@ -295,7 +300,7 @@ hydejack:
 
 collections:
   featured_categories:
-    permalink:         /blog/:name/
+    permalink:         /publications/:name/
     output:            true
 
   featured_tags:
@@ -306,6 +311,9 @@ collections:
     permalink:         /projects/:path/
     output:            true
 
+  activism:
+    permalink:         /activism/:path/
+    output:            true
 
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------
