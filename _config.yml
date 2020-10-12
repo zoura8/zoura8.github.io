@@ -80,11 +80,11 @@ legal:
 copyright:             © 2020. All rights reserved.
 
 # Format of the permalinks
-permalink:             /publications/:categories/:year-:month-:day-:title/
+permalink:             /publications2/:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
-paginate_path:         /publications/:num/
+paginate_path:         /publications2/:num/
 
 
 # Theme
