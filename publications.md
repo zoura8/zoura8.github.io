@@ -18,9 +18,9 @@ Melampaui Batas Identitas Sunni-Syiah. Jurnal MAARIF 10 no.2 (2015): 188-201.
 
 __Interfaith Dialogue in Mindanao: Sharing A Common Hope and Mutual Fears.__ The Work of the 2009/2010 Asian Public Intellectual Fellow pp. 39-50.
 
-__“Interfaith Dialogue at the Grassroots Level: A Case Study of an Interfaith Empowerment Program in East Java, Indonesia.”__  Political Theology 9, no. 1 (2008): 79–92.
+__Interfaith Dialogue at the Grassroots Level: A Case Study of an Interfaith Empowerment Program in East Java, Indonesia.__  Political Theology 9, no. 1 (2008): 79–92.
 
-__“Islamic View on Stem Cell Research”.__ Renai. Salatiga: Pustaka Percik, 2006.
+__Islamic View on Stem Cell Research.__ Renai. Salatiga: Pustaka Percik, 2006.
 					
 
 ### Other publications
@@ -28,7 +28,7 @@ __“Islamic View on Stem Cell Research”.__ Renai. Salatiga: Pustaka Percik, 2
 
 __Book Review: “Shīʾīsm in Southeast Asia: ʿAlid Piety and Sectarian Constructions by Chiara Formichi and R M. Feener.”__ Comparative Islamic Studies 11, no. 1 (2015): 133–36.
 
-__“Eradicating Poverty - Is It Crazy to Think We Can?”__ Short essay for International Development study newsletter, Emory University. (2003)
+__Eradicating Poverty - Is It Crazy to Think We Can?__ Short essay for International Development study newsletter, Emory University. (2003)
 
 [__The 500 Most Influential Muslims in the World 2010 Research Consultant__. The Royal Islamic Strategic Studies Center, Jordan, (2010)](http://rissc.jo/docs/new/Muslim500-2010-Third-Edition-001.pdf)
 
@@ -38,7 +38,7 @@ __“Kekerasan dan Kekuasaan di Mindanao” (Violence and Power in Mindanao)__ O
 
 __Pendidikan al-Islam dan Ke-Muhammadiyahan Berwawasan HAM untuk SMA dan MAN (Islam, Muhammadiyah and Human Rights—a set of textbooks and modules for high school students and teachers)__. Co-editor. MAARIF Institute, Dikdasmen Muhammadiyah, New Zealand Aid (NZAID).
 
-__“Saat Negara Membangun Jembatan Dialog (When countries building a bridge for dialogue).__ Jurnal MAARIF vol. 3. no 1. Feb 2008.
+__Saat Negara Membangun Jembatan Dialog (When Countries Building a Bridge for Dialogue).__ Jurnal MAARIF vol. 3. no 1. Feb 2008.
 
 __Interfaith Dialogue at the Grassroots level: A Case Study of an Interfaith Empowerment Program in East Java Indonesia.__ Masters Thesis. CRCS.GMU. Yogyakarta, 2007.
 
