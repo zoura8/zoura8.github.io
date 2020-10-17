@@ -25,8 +25,8 @@ Founder, Former Director, and Outreach Coordinator for Emory Gamelan Ensemble Bo
  
  
 ## Indonesia 
-Associate Researcher, MAARIF Institute for Culture and Humanity (NGO), Jakarta (2009-Present).
+- Associate Researcher, MAARIF Institute for Culture and Humanity (NGO), Jakarta (2009-Present).
  
-Program Officer, MAARIF Institute, Jakarta (2007-2009).
+- Program Officer, MAARIF Institute, Jakarta (2007-2009).
  
-Part-time Staff in Training Division and Mobile Library, USC Satunama (NGO), Yogyakarta, Indonesia (2004-2005).
+- Part-time Staff in Training Division and Mobile Library, USC Satunama (NGO), Yogyakarta, Indonesia (2004-2005).
