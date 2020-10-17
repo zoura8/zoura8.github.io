@@ -17,10 +17,10 @@ no_groups : true
  
 
 ## Service for Academic Community
-Steering Committee for Religions, Social Conflict, and Peace Unit,
+- Steering Committee for Religions, Social Conflict, and Peace Unit,
 American Academy of Religions (2018-present).
  
-Founder, Former Director, and Outreach Coordinator for Emory Gamelan Ensemble Board, Emory University (2017-present).
+- Founder, Former Director, and Outreach Coordinator for Emory Gamelan Ensemble Board, Emory University (2017-present).
  
  
  
