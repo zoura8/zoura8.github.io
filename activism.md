@@ -10,7 +10,6 @@ no_groups : true
 ## United States
  
 - ELMO Graduate Fellow, for the Institute of Developing Nations at Emory University  and The Carter Center’s Democracy Program (2016-2017).
- 
 - Founding Member, National Asian Pasific American Women's Forum - Atlanta Chapter (2018-2019).
 - Board Member, Program Coordinator, Building Understanding (NGO), Atlanta (2011-2014).
 - Research Coordinator, Muhammadiyah Association US (2019-Present).
@@ -32,6 +31,10 @@ American Academy of Religions (2018-present).
 - Part-time Staff in Training Division and Mobile Library, USC Satunama (NGO), Yogyakarta, Indonesia (2004-2005).
 
 ![Full-width image](https://sarahmuwahidah.files.wordpress.com/2017/03/14444878_1214585105251020_2805503177160437773_o.jpg){:.lead width="800" height="100" loading="lazy"}
+
+![Full-width image](https://sarahmuwahidah.files.wordpress.com/2017/02/screen-shot-2017-01-12-at-4-41-23-pm.png){:.lead width="800" height="100" loading="lazy"}
+
+![Full-width image](https://sarahmuwahidah.files.wordpress.com/2017/02/screen-shot-2017-02-09-at-12-11-51-pm.png){:.lead width="800" height="100" loading="lazy"}
 
 ![Full-width image](https://sarahmuwahidah.files.wordpress.com/2017/02/screen-shot-2017-02-09-at-12-12-09-pm.png){:.lead width="800" height="100" loading="lazy"}
 
