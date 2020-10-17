@@ -30,3 +30,15 @@ American Academy of Religions (2018-present).
 - Program Officer, MAARIF Institute, Jakarta (2007-2009).
  
 - Part-time Staff in Training Division and Mobile Library, USC Satunama (NGO), Yogyakarta, Indonesia (2004-2005).
+
+![Full-width image](https://sarahmuwahidah.files.wordpress.com/2017/03/14444878_1214585105251020_2805503177160437773_o.jpg){:.lead width="800" height="100" loading="lazy"}
+
+![Full-width image](https://sarahmuwahidah.files.wordpress.com/2017/02/screen-shot-2017-02-09-at-12-12-09-pm.png){:.lead width="800" height="100" loading="lazy"}
+
+### Building Peace Locally and Globally – Emory 21 Days of Peace
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4zW7h1epvWQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Discussion on Shi’ism, Sectarianism, and Geopolitics – Maarif Institute for Culture and Humanity, Indonesia
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oHDqRbt8mgk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
