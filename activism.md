@@ -30,25 +30,25 @@ American Academy of Religions (2018-present).
  
 - Part-time Staff in Training Division and Mobile Library, USC Satunama (NGO), Yogyakarta, Indonesia (2004-2005).
 
-![Full-width image](https://sarahmuwahidah.files.wordpress.com/2017/03/14444878_1214585105251020_2805503177160437773_o.jpg){:.lead width="800" height="100" loading="lazy"}
+![Full-width image]( \assets\img\acitivism\14444878_1214585105251020_2805503177160437773_o.jpg){:.lead width="800" height="100" loading="lazy"}
 
-![Full-width image](https://sarahmuwahidah.files.wordpress.com/2017/02/screen-shot-2017-01-12-at-4-41-23-pm.png){:.lead width="800" height="100" loading="lazy"}
+![Full-width image]( \assets\img\acitivism\screen-shot-2017-01-12-at-4-41-23-pm.png){:.lead width="800" height="100" loading="lazy"}
 
-![Full-width image](https://sarahmuwahidah.files.wordpress.com/2017/02/screen-shot-2017-02-09-at-12-11-51-pm.png){:.lead width="800" height="100" loading="lazy"}
+![Full-width image]( \assets\img\acitivism\screen-shot-2017-02-09-at-12-11-51-pm.png){:.lead width="800" height="100" loading="lazy"}
 
-![Full-width image](https://sarahmuwahidah.files.wordpress.com/2017/02/screen-shot-2017-02-09-at-12-12-09-pm.png){:.lead width="800" height="100" loading="lazy"}
+![Full-width image]( \assets\img\acitivism\screen-shot-2017-02-09-at-12-12-09-pm.png){:.lead width="800" height="100" loading="lazy"}
 
-![Full-width image](https://sarahmuwahidah.files.wordpress.com/2017/02/screen-shot-2017-02-09-at-12-16-24-pm.png){:.lead width="800" height="100" loading="lazy"}
+![Full-width image]( \assets\img\acitivism\screen-shot-2017-02-09-at-12-16-24-pm.png){:.lead width="800" height="100" loading="lazy"}
 
-![Full-width image](https://sarahmuwahidah.files.wordpress.com/2017/02/screen-shot-2017-02-09-at-12-16-42-pm.png){:.lead width="800" height="100" loading="lazy"}
+![Full-width image]( \assets\img\acitivism\screen-shot-2017-02-09-at-12-16-42-pm.png){:.lead width="800" height="100" loading="lazy"}
 
-![Full-width image](https://sarahmuwahidah.files.wordpress.com/2017/02/screen-shot-2017-02-09-at-12-17-28-pm.png){:.lead width="800" height="100" loading="lazy"}
+![Full-width image]( \assets\img\acitivism\screen-shot-2017-02-09-at-12-17-28-pm.png){:.lead width="800" height="100" loading="lazy"}
 
-![Full-width image](https://sarahmuwahidah.files.wordpress.com/2017/02/screen-shot-2017-02-09-at-12-18-20-pm.png){:.lead width="800" height="100" loading="lazy"}
+![Full-width image]( \assets\img\acitivism\screen-shot-2017-02-09-at-12-18-20-pm.png){:.lead width="800" height="100" loading="lazy"}
 
-![Full-width image](https://sarahmuwahidah.files.wordpress.com/2017/02/screen-shot-2017-02-09-at-12-18-05-pm.png){:.lead width="800" height="100" loading="lazy"}
+![Full-width image]( \assets\img\acitivism\screen-shot-2017-02-09-at-12-18-05-pm.png){:.lead width="800" height="100" loading="lazy"}
 
-![Full-width image](https://sarahmuwahidah.files.wordpress.com/2017/02/419832_423116561059542_2007561875_n.jpg){:.lead width="800" height="100" loading="lazy"}
+![Full-width image]( \assets\img\acitivism\419832_423116561059542_2007561875_n.jpg){:.lead width="800" height="100" loading="lazy"}
 
 
 ### Building Peace Locally and Globally – Emory 21 Days of Peace
